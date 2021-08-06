@@ -1,0 +1,40 @@
+[{
+    "id": "1",
+    "packet": "Bayi",
+    "old_price": 19900,
+    "current": 14900,
+    "user": 938,
+    "main_f": "0.5x",
+    "status": "Pilih Sekarang",
+    "feature": ["500 MB Disk Space", "Unlimited Bandwidth", "Unlimited Databases", "1 Domain", "Instant Backup", "Unlimited SSL Gratis Selamanya"]
+},
+{
+    "id": "2",
+    "packet": "Pelajar",
+    "old_price": 46900,
+    "current": 23450,
+    "user": 4168,
+    "main_f": "1x",
+    "status": "Pilih Sekarang",
+    "feature": ["Unlimited Disk Space", "Unlimited Bandwidth", "Unlimited POP3 Email", "Unlimited Databases", "10 Addon Domains", "Instant Backup", "Domain Gratis Selamanya", "Unlimited SSL Gratis Selamanya"]
+},
+{
+    "id": "3",
+    "packet": "Personal",
+    "old_price": 58900,
+    "current": 38900,
+    "user": 10017,
+    "main_f": "2x",
+    "status": "Pilih Sekarang",
+    "feature": ["Unlimited Disk Space", "Unlimited Bandwidth", "Unlimited POP3 Email", "Unlimited Databases", "Unlimited Addon Domains", "Instant Backup", "Domain Gratis Selamanya", "Unlimited SSL Gratis Selamanya", "Private Name Server", "SpamAssasin Mail Protection"]
+},
+{
+    "id": "4",
+    "packet": "Bisnis",
+    "old_price": 109900,
+    "current": 65900,
+    "user": 3552,
+    "main_f": "3x",
+    "status": "Diskon 40%",
+    "feature": ["Unlimited Disk Space", "Unlimited Bandwidth", "Unlimited POP3 Email", "Unlimited Databases", "Unlimited Addon Domains", "Magic Auto Backup & Restore", "Domain Gratis Selamanya", "Unlimited SSL Gratis Selamanya", "Private Name Server", "Prioritas Layanan Support", "SpamExpert Pro Mail Protection"]
+}]
