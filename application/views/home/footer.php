@@ -2,7 +2,6 @@
 <footer id="footer">
     <div class="footer-top">
         <div class="container">
-
             <!-- First Row -->
             <div class="row">
                 <div class="col-lg-3 col-md-6">
@@ -86,25 +85,57 @@
                         <input type="email" name="email"><input type="submit" value="Berlangganan">
                     </form>
                     <p>Dapatkan promo dan konten menarik dari penyedia hosting terbaik Anda.</p>
-
                 </div>
 
-                <div class="col-lg-3 col-md-6 footer-links">
-                    <h3>Tutorial</h3>
-                    <ul>
-                        <li><a href="#">a</a></li>
-                        <li><a href="#">b</a></li>
-                        <li><a href="#">c</a></li>
-                    </ul>
+                <div class="col-lg-3 col-md-6 footer-socialmedia">
+                    <span href="#" class="fa-stack fa-2x me-4">
+                        <i class="fa fa-circle-thin fa-stack-2x icon-background"></i>
+                        <a href="#" class="fa fa-facebook-f fa-stack-1x fa-inverse icon-foreground"></a>
+                    </span>
+                    <span href="#" class="fa-stack fa-2x me-4">
+                        <i class="fa fa-circle-thin fa-stack-2x icon-background"></i>
+                        <a href="#" class="fa fa-twitter fa-stack-1x fa-inverse icon-foreground"></a>
+                    </span>
+                    <span href="#" class="fa-stack fa-2x">
+                        <i class="fa fa-circle-thin fa-stack-2x icon-background"></i>
+                        <a href="#" class="fa fa-google-plus fa-stack-1x fa-inverse icon-foreground"></a>
+                    </span>
                 </div>
 
+            </div>
+
+            <!-- Third Row -->
+            <div class="row">
+                <div class="col-md-6 footer-links">
+                    <h3>PEMBAYARAN</h3>
+                    <a href="#"><embed src="https://lh6.ggpht.com/-yxMLYvYGZts/UUygGpMXwBI/AAAAAAAAAn4/USfIB04qzwU/LogoBankBCABlackWhite200px_thumb1.png?imgmax=800" class="bank_logo"></a>
+                    <a href="#"><embed src="<?= $logo_mandiri ?>" class="bank_logo"></a>
+                </div>
+            </div>
+            <div class="row ">
+                <div class="footer-links">
+                    <p>Aktivasi instan dengan e-Payment Hosting dan domain langsung aktif!</p>
+                </div>
             </div>
         </div>
     </div>
 
     <div class="container">
         <div class="copyright">
-            &copy; Copyright <strong><span>Sailor</span></strong>. All Rights Reserved
+            <div class="row">
+                <div class="col-lg-8 col-md-6">
+                    <div class="mb-2">
+                        <a>Copyright &copy;2016 Niagahoster | Hosting powered by PHP7, CloudLinux, CloudFlare, BitNinja and DC Biznet Technovillage Jakarta </a>
+                    </div>
+                    <div>
+                        <a>Cloud VPS Murah powered by Webuzo Softaculous, Intel SSD and cloud computing technology</a>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 copyright_end">
+                    <a>Syarat dan Ketentuan</a>
+                    <a>| Kebijakan Privasi</a>
+                </div>
+            </div>
         </div>
         <div class="credits">
             <!-- All the links in the footer should remain intact. -->

@@ -23,6 +23,9 @@ class Home extends CI_Controller
 		$data['hosting_laravel'] = base_url('assets/svg/illustration banner support laravel hosting.svg');
 		$data['foto_pegawai'] = base_url('assets/images/Image support.png');
 
+		//logo
+		$data['logo_mandiri'] = base_url('assets/images/logomandiri.png');
+
 
 		//Load json and decode into array
 		$json_price = file_get_contents(base_url('assets/data/price.json'));
